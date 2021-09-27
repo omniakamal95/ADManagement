@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "CXBR+9etfWrWYud+vaU73sjZdeF8E8WpTZZQRCmeG0wPYjAwE0ZShr8HFxamYdoCTRszae27lV8cp7lQOzfLGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\ADManagement\\ADManagement\\ADManagement.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0-rc.1.21451.13\\microsoft.win32.systemevents.6.0.0-rc.1.21451.13.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.2\\swashbuckle.aspnetcore.swagger.6.2.2.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.2\\swashbuckle.aspnetcore.swaggergen.6.2.2.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.2\\swashbuckle.aspnetcore.swaggerui.6.2.2.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.0-rc.1.21451.13\\system.configuration.configurationmanager.6.0.0-rc.1.21451.13.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.directoryservices\\6.0.0-rc.1.21451.13\\system.directoryservices.6.0.0-rc.1.21451.13.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.directoryservices.accountmanagement\\6.0.0-rc.1.21451.13\\system.directoryservices.accountmanagement.6.0.0-rc.1.21451.13.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.directoryservices.protocols\\6.0.0-rc.1.21451.13\\system.directoryservices.protocols.6.0.0-rc.1.21451.13.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.drawing.common\\6.0.0-rc.1.21451.13\\system.drawing.common.6.0.0-rc.1.21451.13.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.io.filesystem.accesscontrol\\5.0.0\\system.io.filesystem.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0-rc.1.21451.13\\system.security.cryptography.protecteddata.6.0.0-rc.1.21451.13.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.security.permissions\\6.0.0-rc.1.21451.13\\system.security.permissions.6.0.0-rc.1.21451.13.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.windows.extensions\\6.0.0-rc.1.21451.13\\system.windows.extensions.6.0.0-rc.1.21451.13.nupkg.sha512"
+  ],
+  "logs": []
+}

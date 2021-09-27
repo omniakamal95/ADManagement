@@ -1,0 +1,9 @@
+C:\Users\Lenovo\source\repos\ADManagement\ADManagement.Shared\bin\Debug\netcoreapp3.1\ADManagement.Shared.deps.json
+C:\Users\Lenovo\source\repos\ADManagement\ADManagement.Shared\bin\Debug\netcoreapp3.1\ADManagement.Shared.dll
+C:\Users\Lenovo\source\repos\ADManagement\ADManagement.Shared\bin\Debug\netcoreapp3.1\ADManagement.Shared.pdb
+C:\Users\Lenovo\source\repos\ADManagement\ADManagement.Shared\obj\Debug\netcoreapp3.1\ADManagement.Shared.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\ADManagement\ADManagement.Shared\obj\Debug\netcoreapp3.1\ADManagement.Shared.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\ADManagement\ADManagement.Shared\obj\Debug\netcoreapp3.1\ADManagement.Shared.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\ADManagement\ADManagement.Shared\obj\Debug\netcoreapp3.1\ADManagement.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ADManagement\ADManagement.Shared\obj\Debug\netcoreapp3.1\ADManagement.Shared.dll
+C:\Users\Lenovo\source\repos\ADManagement\ADManagement.Shared\obj\Debug\netcoreapp3.1\ADManagement.Shared.pdb
